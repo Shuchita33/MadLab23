@@ -1,0 +1,4 @@
+	 mother	  child      output	
+	 yes           no        error: show() in Child cannot override show() in Mother
+static	 yes          yes       
+              no           yes        error: show() in Child cannot override show() in Mother		
